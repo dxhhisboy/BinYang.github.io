@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Bin Yang's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Bin Yang"
+description              : &description "Associate Researcher from Tianjin University"
+url                      : https://dxhhisboy.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "yangbin2023.png"
   name             : "Bin Yang"
-  pronouns         : "He/his"  
+  #pronouns         : "He/his"  
   #bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Tianjin University"
