@@ -12,7 +12,7 @@ title                    : "Bin Yang's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Bin Yang"
 description              : &description "Associate Researcher from Tianjin University"
-url                      : https://dxhhisboy.github.io/
+url                      : https://dxhhisboy.github.io/BinYang.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
